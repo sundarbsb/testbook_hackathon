@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+Online Learning Education Platform Website
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+By:
+Sundar
+Prasanna
+Khushal
+Chethana
